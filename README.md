@@ -1,5 +1,10 @@
 # Sleek.toDiscord.JSBot
 
+Bot can:
+* Start an Attack.
+* Stop an Attack.
+* Restart an Attack.
+
 To setup this bot:
 1. Install those packages:
   * npm i discord.js
